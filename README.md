@@ -6,5 +6,5 @@
 `Desafio 1`: Aplicar a biblioteca Validate-CPF para o field CPF, tornando possível uma averiguação imediata do dado indicado.
 **Cumprido**
 
-`Desafio 2`: Inser um ImageField na class.
+`Desafio 2`: Inserir um ImageField na class.
 **Cumprido**
